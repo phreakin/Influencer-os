@@ -17,12 +17,10 @@ Every module integrates with the risk engine.
 AI runs behind the scenes to monitor security, finances, engagement, behavior, compliance, and opportunities — and can fully automate content operations when Autopilot Mode is enabled.
 
 ---
-
-🧱 Monorepo Structure
-
+~~~plaintext
 influenceos/
 ├─ backend/
-│  ├─ services/
+├─ services/
 │  │  ├─ auth/
 │  │  ├─ users/
 │  │  ├─ projects/
@@ -70,8 +68,7 @@ influenceos/
    └─ ux/
 
 
----
-
+~~~
 🧩 Major Modules
 
 📁 Projects
@@ -289,7 +286,7 @@ REST + Webhooks + EventStream for:
 • Updates
 • AI
 • Autopilot
-
+---
 
 Everything is accessible programmatically.
 
