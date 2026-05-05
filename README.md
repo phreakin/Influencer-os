@@ -1,6 +1,12 @@
 # InfluenceOS
 
-InfluenceOS is a modular, enterprise‑grade operating system for creators, teams, and organizations.  
+> A modular, enterprise‑grade operating system for creators, teams, and organizations.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-green)](https://nodejs.org/)
+
 Every module is typed, versioned, auditable, and fully accessible programmatically.
 
 ---
@@ -16,8 +22,7 @@ Every module is typed, versioned, auditable, and fully accessible programmatical
 - **AI** — native AI integration across all services  
 - **Autopilot** — automated workflows, triggers, and background processes  
 
-Everything in InfluenceOS is accessible **programmatically** through modular, typed, versioned services.  
- [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://github.com/phreakin/Influencer-os/blob/main/README.md?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A3CC6689-93F6-4FA6-AB9B-717E9ECC0C4F&citationTitle=github.com&citationFullTitle=github.com&chatItemId=wRAdwpJcCqQUbcMJTVU2g)
+Everything in InfluenceOS is accessible **programmatically** through modular, typed, versioned services.
 
 ---
 
@@ -50,7 +55,6 @@ Everything in InfluenceOS is accessible **programmatically** through modular, ty
 
 ### AI Layer
 - Provider‑agnostic modular architecture  
- [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://github.com/phreakin/Influencer-os/blob/main/README.md?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A3CC6689-93F6-4FA6-AB9B-717E9ECC0C4F&citationTitle=github.com&citationFullTitle=github.com&chatItemId=wRAdwpJcCqQUbcMJTVU2g)
 
 ---
 
@@ -72,24 +76,17 @@ This ensures the system remains scalable, maintainable, and enterprise‑ready.
 
 ## 📜 License
 
-Choose the license that fits your deployment model:
-
-- **MIT** — open and permissive  
-- **Apache 2.0** — patent‑safe, enterprise‑friendly  
-- **Proprietary** — for closed‑source commercial deployments  
- [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://github.com/phreakin/Influencer-os/blob/main/README.md?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A3CC6689-93F6-4FA6-AB9B-717E9ECC0C4F&citationTitle=github.com&citationFullTitle=github.com&chatItemId=wRAdwpJcCqQUbcMJTVU2g)
+InfluenceOS is released under the [MIT License](LICENSE.md).  
+See [LICENSE.md](LICENSE.md) for full terms.
 
 ---
 
 ## 🤝 Contributing
 
 InfluenceOS is modular by design.  
-Each service is:
+Each service is isolated, typed, versioned, and auditable.
 
-- Isolated  
-- Typed  
-- Versioned  
-- Auditable  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution guide.
 
 ### Pull Requests must:
 
@@ -98,7 +95,6 @@ Each service is:
 - Include **documentation**  
 - Include **audit logging**  
 - Include **risk integration**  
- [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://github.com/phreakin/Influencer-os/blob/main/README.md?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A3CC6689-93F6-4FA6-AB9B-717E9ECC0C4F&citationTitle=github.com&citationFullTitle=github.com&chatItemId=wRAdwpJcCqQUbcMJTVU2g)
 
 ---
 
@@ -110,7 +106,6 @@ Each service is:
 - AI‑generated contracts  
 - Real‑time collaboration  
 - Multi‑tenant SaaS mode  
- [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://github.com/phreakin/Influencer-os/blob/main/README.md?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A3CC6689-93F6-4FA6-AB9B-717E9ECC0C4F&citationTitle=github.com&citationFullTitle=github.com&chatItemId=wRAdwpJcCqQUbcMJTVU2g)
 
 ---
 
